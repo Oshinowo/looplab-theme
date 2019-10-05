@@ -12,3 +12,10 @@ body {
     border-bottom: $primary-color 3px solid;
     opacity: 0.8;
 }
+
+#home-section {
+    background-image: url('../img/home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
